@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Test2\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe.config
+C:\Users\Administrator\source\repos\Test2\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.exe
+C:\Users\Administrator\source\repos\Test2\KorisnickiInterfejs\bin\Debug\KorisnickiInterfejs.pdb
+C:\Users\Administrator\source\repos\Test2\KorisnickiInterfejs\bin\Debug\Common.dll
+C:\Users\Administrator\source\repos\Test2\KorisnickiInterfejs\bin\Debug\Domain.dll
+C:\Users\Administrator\source\repos\Test2\KorisnickiInterfejs\bin\Debug\Common.pdb
+C:\Users\Administrator\source\repos\Test2\KorisnickiInterfejs\bin\Debug\Domain.pdb
+C:\Users\Administrator\source\repos\Test2\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Test2\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.FrmKlijent.resources
+C:\Users\Administrator\source\repos\Test2\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Test2\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Test2\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Test2\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Test2\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.exe
+C:\Users\Administrator\source\repos\Test2\KorisnickiInterfejs\obj\Debug\KorisnickiInterfejs.pdb
